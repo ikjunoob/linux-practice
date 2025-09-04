@@ -1,0 +1,9 @@
+"Hello, Vims!"
+"This is Vim practice."
+
+"This is Vim practice."
+"This is Vim practice."
+"This is Vim practice."
+"This is Vim practice.""This is Vim practice.""This is Vim practice."
+"This is Vim practice.""This is Vim practice."
+"This is Vim practice."
